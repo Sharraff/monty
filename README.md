@@ -1,5 +1,6 @@
 # C - Stacks, Queues - LIFO, FIFO
 
+
 # Stack 
 
 ![image](https://user-images.githubusercontent.com/94003839/207608913-ebae8973-c0e5-4f04-b08f-c51a2671bf39.png)
