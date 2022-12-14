@@ -1,12 +1,12 @@
 # C - Stacks, Queues - LIFO, FIFO
 
 
-# Stack 
+# Stack Operation
 
 ![image](https://user-images.githubusercontent.com/94003839/207608913-ebae8973-c0e5-4f04-b08f-c51a2671bf39.png)
 
 
-# Queue
+# Queue Operation
 
 ![image](https://user-images.githubusercontent.com/94003839/207608490-f1713ae2-6e9b-443a-b6e8-9e8e106017bc.png)
 
