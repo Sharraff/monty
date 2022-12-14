@@ -2,13 +2,13 @@
 
 # Stack 
 
-https://everythingcomputerscience.com/images/stackImg.jpg
+
 
 
 # Queue
 
-https://everythingcomputerscience.com/images/queueImg.jpg
 
+![image](https://user-images.githubusercontent.com/94003839/207608490-f1713ae2-6e9b-443a-b6e8-9e8e106017bc.png)
 
 
 This is team project where we'll be working with C stack and queue
